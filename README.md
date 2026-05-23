@@ -1,5 +1,4 @@
-# PhishGuard-Web3
-A community-driven browser extension &amp; smart contract system to detect phishing and block Web3 drainers in real-time.
+
 # 🛡️ PhishGuard Web3
 
 A community-driven browser extension and smart contract system designed to detect phishing websites and block Web3 drainers in real-time. Submitted to the **Find Evil! Hackathon** on Devpost.
@@ -57,13 +56,8 @@ The core registry contract is deployed on testnet:
 
 ## 👥 Team Members
 
-* **[Nama Anda]** - Lead Blockchain Developer / Extension Engineer
-* **[Nama Teman]** - Fullstack Developer / UI Designer
-
----
-
-## 🔗 Links<img width="1080" height="1920" alt="Screenshot_20260523-155131_Chrome" src="https://github.com/user-attachments/assets/397443a8-7655-4e23-996c-d917fe06122b" />
-<img width="1080" height="1460" alt="Screenshot_20260523-155147_Chrome" src="https://github.com/user-attachments/assets/e721ce69-fca6-41c9-bb58-c86952c46ff5" />
+* **[Khan_Ads]** - Lead Blockchain Developer / Extension Engineer
+* **[ekfas8998 Team]** - Fullstack Developer / UI Designer
 
 
 * **Devpost Submission**: [Link Submisi Devpost Anda]
