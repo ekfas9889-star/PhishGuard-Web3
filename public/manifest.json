@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "PhishGuard Web3",
+  "version": "1.0.0",
+  "description": "Detect phishing and block Web3 drainers in real-time",
+  "permissions": ["scripting", "storage", "webRequest"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "PhishGuard Web3"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ]
+}
